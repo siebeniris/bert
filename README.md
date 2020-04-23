@@ -1,3 +1,9 @@
+# change
+ April 21th, 2020
+This repository migrate the tensorflow to the latest version. 
+
+
+
 # BERT
 
 **\*\*\*\*\* New March 11th, 2020: Smaller BERT Models \*\*\*\*\***
