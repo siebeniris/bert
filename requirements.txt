@@ -1,2 +1,7 @@
-tensorflow >= 1.11.0   # CPU Version of TensorFlow.
+# tensorflow >= 1.11.0   # CPU Version of TensorFlow.
 # tensorflow-gpu  >= 1.11.0  # GPU version of TensorFlow.
+##### new version
+tensorflow==2.1.0
+tensorflow-addons==0.9.1
+tensorflow-estimator==2.1.0
+tensorflow-hub==0.8.0
